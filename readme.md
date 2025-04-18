@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gokulashri</h1>
 <h3 align="center">Aspiring Software Developer | Passionate about Web Development</h3>
 
-- 🌱 I’m currently learning **I’m currently learning Full-Stack Web Development (MERN stack) and sharpening my problem-solving skills through real-world projects.**
+- 🌱  **I’m currently learning Full-Stack Web Development (MERN stack) and sharpening my problem-solving skills through real-world projects.**
 
 - 📫 How to reach me **gokulashri28@gmail.com**
 
